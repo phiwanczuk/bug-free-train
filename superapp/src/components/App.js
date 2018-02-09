@@ -9,7 +9,7 @@ class App extends React.Component{
         return(
             <div className="drink-of-the-year">
                 <div className="menu">
-                    <Header />
+                    <Header tagline="Fresh Vodka Shop"/>
                 </div>
                 <Order />
                 <Supplies />
